@@ -3,7 +3,7 @@
 ## Introdução
 Este projeto implementa uma Convolutional Neural Network (CNN) utilizando TensorFlow e Keras para classificar imagens como sendo de um cachorro ou de um gato. O conjunto de dados é dividido em treinamento e teste, contendo imagens de cachorros e gatos.
 
-![Representação de uma CNN](https://cdn.discordapp.com/attachments/1184622679685333042/1193575806614638644/CNN.png?ex=65ad3717&is=659ac217&hm=dcfd75bb7cae89dacb558a46ae7c88746070f3772037c8530ab46d300d5f6797&)
+![Representação de uma CNN](https://cdn.discordapp.com/attachments/1184622679685333042/1193575806614638644/CNN.png?ex=65e49617&is=65d22117&hm=c0dc5387831e70cebb0a2ada953503695b740c81150e029cf1d7ac7456c89dbc&)
 
 ## Descrição do Projeto
 O objetivo principal é criar um modelo capaz de aprender características distintas entre imagens de cachorros e gatos, possibilitando a classificação correta de novas imagens. A CNN é escolhida devido à sua eficácia no processamento de dados de imagem.
